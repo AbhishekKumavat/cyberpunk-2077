@@ -1,26 +1,35 @@
 # NEON GRID - Digital Domination
 
-A futuristic cyberpunk-themed website with immersive neon aesthetics, dynamic video backgrounds, and interactive elements that transport users to a digital world inspired by the year 2077.
+A **cyberpunk-inspired portfolio website** featuring neon visuals, immersive 3D animations, a futuristic preloader, and an ambient music toggle — built to feel like a digital city at night.
 
-## Features
-- 🌃 Immersive cyberpunk/neon aesthetic
-- 🎥 Dynamic video backgrounds with looping content
-- 🎶 Integrated audio toggle system
-- 📱 Fully responsive design
-- 🎯 Interactive 3D tilt effects on cards
-- ⚡ Smooth animations and transitions
-- 🔥 Preloader with progress indicator
-- 🎨 Vibrant neon color scheme
+## 🚀 Features
 
-## Tech Stack
-- HTML5
-- CSS3 (with modern techniques)
-- JavaScript (ES6+)
-- Video/Audio APIs
-- Responsive design principles
+- 🌃 **Immersive cyberpunk/neon aesthetic**
+- 🎥 **Dynamic video backgrounds** with looping content
+- 🎶 **Integrated audio toggle system** for ambient music
+- 📱 **Fully Responsive**  
+  Optimized for desktop, tablet, and mobile screens.
+- 🎯 **Interactive 3D tilt effects** on cards
+- ⚡ **Smooth animations & transitions**  
+  Powered by GSAP for fluid animations and micro-interactions.
+- 🔥 **Preloader with progress indicator**
+- 🎨 **Vibrant neon color scheme**
+- ⚡ **Stylish Preloader**  
+  Futuristic loading animation inspired by neon UI systems.
 
-## Screenshots
-![Cyberpunk Homepage](./assets/img/entrance.webp)
+## 🧰 Tech Stack
+
+- **HTML5** – Semantic and accessible structure  
+- **SCSS / CSS (BEM Methodology)** – Scalable and maintainable styling  
+- **JavaScript (ES6+)** – Interactive logic and UI behavior  
+- **GSAP** – High-performance animations and scroll effects  
+
+## 🎨 Design Theme
+
+- Neon cyberpunk color palette  
+- Dark futuristic UI  
+- Glassmorphism & glow effects  
+- Smooth parallax and depth illusions  
 
 ## Installation
 1. Clone the repository
